@@ -1,5 +1,4 @@
 - 👋 Good Day, I’m @AnthonyWannaCoding,just call me Anthony
 - 👀 I’m interested in software 
 - 🌱 I’m currently learning Web3
-- 💞️ About video,bilibili:安托万仔
 - 📫 Other detail has been provided in my profile
