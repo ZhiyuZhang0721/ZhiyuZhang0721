@@ -22,6 +22,4 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyWannaCoding&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyWannaCoding&layout=compact&theme=radical)](https://github.com/AnthonyWannaCoding/github-readme-stats&theme=radical)
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyWannaCoding&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyWannaCoding&layout=compact&theme=radical)](https://github.com/AnthonyWannaCoding/github-readme-stats&theme=radical)
