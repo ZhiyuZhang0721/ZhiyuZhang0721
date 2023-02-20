@@ -22,4 +22,4 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyWannaCoding)](https://github.com/AnthonyWannaCoding/github-readme-stats)
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyWannaCoding&show_icons=true&theme=radical)
