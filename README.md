@@ -21,3 +21,5 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
+[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/AnthonyWannaCoding/github-readme-stats)
