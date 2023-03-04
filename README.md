@@ -22,7 +22,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-https://img.shields.io/twitter/follow/Anthony71361873?style=social
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Anthony71361873?style=social">
 
 ###
 
