@@ -8,6 +8,7 @@
 
 ###
 <h3 align="left">About my stats:</h3>
+
 ![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyWannaCoding&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyWannaCoding&layout=compact&theme=radical)](https://github.com/AnthonyWannaCoding/github-readme-stats&theme=radical)
 
 ###
