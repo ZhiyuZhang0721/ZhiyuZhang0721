@@ -8,7 +8,6 @@
 
 ###
 <h3 align="left">Social Medias:</h3>
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=Anthony71361873">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Anthony71361873?style=social">
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCB4VBe11nIUNxk84MGpasUg?style=social">
 
