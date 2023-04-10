@@ -8,9 +8,8 @@
 
 ###
 <h3 align="left">Social Medias:</h3>
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Anthony71361873?style=social">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AnthonyZhang?style=social">
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCB4VBe11nIUNxk84MGpasUg?style=social">
-<img alt="Subreddit subscribers" src="https://img.shields.io/reddit/subreddit-subscribers/AnthonyZhang72112?style=social">
 
 ###
 <h3 align="left">About my stats:</h3>
