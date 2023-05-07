@@ -1,6 +1,6 @@
 ###
 <h1 align="center">Hi 👋, I'm Anthony Zhang</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 ###
 <h3 align="left">Languages and Tools:</h3>
