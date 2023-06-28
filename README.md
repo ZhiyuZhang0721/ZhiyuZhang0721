@@ -1,20 +1,18 @@
-###
-<h1 align="center">Hi 👋, I'm Anthony Zhang</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+Hi, I'm Anthony Zhang, currently a back-end software engineer in a game company. I focus on the maintenance and development of game servers and databases.
 
-###
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+- I'm currently learning [CS186](https://cs186.gitbook.io/project/).
+- As a math lover, I'm also reading papers related to research on intelligent algorithms.
+- I'm interested in exploring system design and Web 3 related projects.
+- You can contact me by the gmail provided in my profile, I'm willing to communicate with you in Twitter.
+- Trying to be a YouTuber, though I have no idea about what kind of videos I wanna make.
 
-###
-<h3 align="left">Social Medias:</h3>
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AnthonyZhang?style=social">
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCB4VBe11nIUNxk84MGpasUg?style=social">
+---
 
-###
-<h3 align="left">About my stats:</h3>
+* [About me](https://twitter.com/AnthonyZhang)
+* [Video](https://www.youtube.com/channel/UCB4VBe11nIUNxk84MGpasUg)
+* [Blog](https://twitter.com/AnthonyZhang)
+* [中文博客 / Blog (Chinese)](https://anthonywannacoding.github.io/)
 
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyWannaCoding&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyWannaCoding&layout=compact&theme=radical)](https://github.com/AnthonyWannaCoding/github-readme-stats&theme=radical)
+---
 
-###
 ![](./img/header_.png)
