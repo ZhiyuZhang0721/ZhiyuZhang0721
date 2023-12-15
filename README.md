@@ -11,7 +11,7 @@ Hi, I'm Anthony Zhang, currently a back-end software engineer in a game company.
 * [About me](https://linktr.ee/Anthony_Zhang)
 * [Video](https://www.youtube.com/channel/UCB4VBe11nIUNxk84MGpasUg)
 * [Blog](https://twitter.com/AnthonyZhang)
-* [中文博客 / Blog (Chinese)](https://github.com/AnthonyWannaCoding/Blog)
+* [中文博客 / Blog (Chinese)](https://anthonywannacoding.github.io/)
 
 ---
 
