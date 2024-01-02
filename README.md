@@ -18,10 +18,10 @@ Hi, I'm Anthony Zhang, currently a back-end software engineer in a game company.
 
 2024 To Do List
 
-- Try to become a blogger who updates every month.
-- Publish an SCI article.
-- Trans to be a database engineer, participating in distributed projects.
-- Gotta a baseball cap made in LeetCode.
+- Tryna be a blogger(maybe update every month).
+- Publish a Paper.
+- Be a database engineer, participating in distributed projects.
+- Gotta a baseball cap from LeetCode.
 
 ---
 
