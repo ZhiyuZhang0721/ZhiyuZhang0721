@@ -5,6 +5,7 @@ Hi, I'm Anthony Zhang, currently a back-end software engineer in a game company.
 - I'm interested in exploring system design and Web 3 related projects.
 - You can contact me by the gmail provided in my profile, I'm willing to communicate with you.
 - Trying to be a YouTuber, though I have no idea about what kind of videos I wanna make.
+- 
 
 ---
 
@@ -12,6 +13,15 @@ Hi, I'm Anthony Zhang, currently a back-end software engineer in a game company.
 * [Video](https://www.youtube.com/channel/UCB4VBe11nIUNxk84MGpasUg)
 * [Blog](https://twitter.com/AnthonyZhang)
 * [中文博客 / Blog (Chinese)](https://ZhiyuZhang0721.github.io/)
+
+---
+
+2024 To Do List
+
+- Try to become a blogger who updates every month.
+- Publish an SCI article.
+- Trans to be a database engineer, participating in distributed projects.
+- Gotta a baseball cap made in LeetCode.
 
 ---
 
