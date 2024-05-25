@@ -1,4 +1,4 @@
-Hi, I'm Anthony Zhang, currently a back-end software engineer in a game company. I focus on the maintenance and development of game servers and databases.
+Hi, I'm Anthony Zhang, a back-end software engineer（Java Programmer）. I focus on the maintenance and development of game servers and databases.
 
 - I'm currently learning [CS186](https://cs186.gitbook.io/project/).
 - As a math lover, I'm also reading papers related to research on [intelligent algorithms](https://www.sciencedirect.com/journal/information-sciences).
