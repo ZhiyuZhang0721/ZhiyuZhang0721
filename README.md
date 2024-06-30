@@ -1,7 +1,7 @@
 Hi, I'm Zhiyu Zhang, an intern back-end software engineer (Java Programmer) @ Hyperchain. I'm currently focused on the maintenance and development of servers and databases.
 
 - I'm currently learning [CS186](https://cs186.gitbook.io/project/).
-- As a math lover, I'm also reading papers related to research on [intelligent algorithms](https://www.sciencedirect.com/journal/information-sciences).
+- As a graduate school student, I'm also reading papers related to research on [intelligent algorithms](https://www.sciencedirect.com/journal/information-sciences).
 - I'm interested in exploring system design and Web 3 related projects.
 - You can contact me via the Gmail provided in my profile; I'm willing to communicate with you.
 - Trying to be a YouTuber, though I have no idea what kind of videos I want to make.
@@ -9,7 +9,7 @@ Hi, I'm Zhiyu Zhang, an intern back-end software engineer (Java Programmer) @ Hy
 
 ---
 
-* [Video](https://www.youtube.com/channel/UCB4VBe11nIUNxk84MGpasUg)
+* Street Photogaphy（待开发）[Video](https://www.youtube.com/channel/UCB4VBe11nIUNxk84MGpasUg)
 * [中文博客 / Blog (Chinese)](https://ZhiyuZhang0721.github.io/)
 
 ---
@@ -18,7 +18,7 @@ Hi, I'm Zhiyu Zhang, an intern back-end software engineer (Java Programmer) @ Hy
 
 - Tryna be a blogger(maybe update every month).
 - Publish a Paper.
-- Be a database engineer, participating in distributed projects.
+- SDE/SRE, participating in distributed projects.
 - Gotta a baseball cap from LeetCode.
 
 ---
