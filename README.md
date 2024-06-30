@@ -1,11 +1,11 @@
-Hi, I'm Anthony Zhang, a back-end software engineer（Java Programmer）@hyperchain. I'm currently focus on the maintenance and development of servers and databases.
+Hi, I'm Zhiyu Zhang, an intern back-end software engineer (Java Programmer) at Hyperchain. I'm currently focused on the maintenance and development of servers and databases.
 
 - I'm currently learning [CS186](https://cs186.gitbook.io/project/).
 - As a math lover, I'm also reading papers related to research on [intelligent algorithms](https://www.sciencedirect.com/journal/information-sciences).
 - I'm interested in exploring system design and Web 3 related projects.
-- You can contact me by the gmail provided in my profile, I'm willing to communicate with you.
-- Trying to be a YouTuber, though I have no idea about what kind of videos I wanna make.
-- Always welcome good opportunity and fashionable tech.
+- You can contact me via the Gmail provided in my profile; I'm willing to communicate with you.
+- Trying to be a YouTuber, though I have no idea what kind of videos I want to make.
+- Always welcome good opportunities and fashionable tech.
 
 ---
 
