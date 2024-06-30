@@ -9,8 +9,8 @@ Hi, I'm Zhiyu Zhang, an intern back-end software engineer (Java Programmer) @ Hy
 
 ---
 
-* Street Photogaphy（待开发）[Video](https://www.youtube.com/channel/UCB4VBe11nIUNxk84MGpasUg)
-* [中文博客 / Blog (Chinese)](https://ZhiyuZhang0721.github.io/)
+* Street Photogaphy（待开发）=> [Video](https://www.youtube.com/channel/UCB4VBe11nIUNxk84MGpasUg)
+* 出海方案/月度Blog => [中文博客 / Blog (Chinese)](https://ZhiyuZhang0721.github.io/)
 
 ---
 
