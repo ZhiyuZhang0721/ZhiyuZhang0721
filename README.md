@@ -1,4 +1,4 @@
-Hi, I'm Zhiyu Zhang, an intern back-end software engineer (Java Programmer) @ Hyperchain. I'm currently focused on the maintenance and development of servers and databases.
+Hi, I'm Zhiyu Zhang, an intern back-end software engineer (Java Programmer) @Bilibili. I'm currently focused on the maintenance and development of servers and databases.
 
 - I'm currently learning [CS186](https://cs186.gitbook.io/project/).
 - As a graduate school student, I'm also reading papers related to research on [intelligent algorithms](https://www.sciencedirect.com/journal/information-sciences).
